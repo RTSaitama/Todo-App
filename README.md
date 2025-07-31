@@ -1,5 +1,6 @@
 # Todo-App — Task Manager built with TypeScript
 
+ - [DEMO LINK](https://RTSaitama.github.io/Todo-App/)
 ## Overview
 Todo-App is a simple and responsive task manager built with TypeScript. It allows users to add, complete, delete, and filter tasks. The app is lightweight, fast, and written with a clean and scalable code structure.
 
@@ -23,7 +24,7 @@ Todo-App is a simple and responsive task manager built with TypeScript. It allow
 ### Clone the repository
 ```bash
 
-git clone https://github.com/RTSaitama/todo-app-ts.git
+git clone https://github.com/RTSaitama/Todo-App.git
 cd Todo-App
 
 Author
