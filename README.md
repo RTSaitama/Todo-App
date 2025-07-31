@@ -1,9 +1,30 @@
-# React TypeScript Starter Pack
+# Todo-App — Task Manager built with TypeScript
 
-To use this template click `Use this template`
+## Overview
+Todo-App is a simple and responsive task manager built with TypeScript. It allows users to add, complete, delete, and filter tasks. The app is lightweight, fast, and written with a clean and scalable code structure.
 
-### Available Scripts
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks (All / Active / Completed)
+- Responsive minimal UI
+- Fully typed with TypeScript
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## Technologies
+- TypeScript
+- React
+- HTML5 & SCSS
+- CustomHook
+- REST API
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Getting Started
+
+### Clone the repository
+```bash
+
+git clone https://github.com/RTSaitama/todo-app-ts.git
+cd Todo-App
+
+Author
+Created by RTSaitama
