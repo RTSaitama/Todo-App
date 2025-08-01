@@ -32,5 +32,6 @@ App uses Pessimistic update strategy — only update UI after confirmation from 
 git clone https://github.com/RTSaitama/Todo-App.git
 cd Todo-App
 
-Author
+```
+## Author
 Created by RTSaitama
