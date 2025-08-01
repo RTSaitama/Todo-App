@@ -1,6 +1,4 @@
 # Todo-App — Task Manager built with TypeScript
-
-# Live Demo
  - [Try it Live](https://RTSaitama.github.io/Todo-App/)
    
 ## Overview
